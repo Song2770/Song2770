@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h2> Hey there! I'm Song2770. <img src="./src/Qf0c.gif" width="25"></h2>
-<img align="right" alt="GIF" src="./src/8oXf.gif" width="300"/>
+<h2> Hey there! I'm Song2770. <img src="./src/8oXf.gif" width="25"></h2>
+<img align="right" alt="GIF" src="./src/Qf0c.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
