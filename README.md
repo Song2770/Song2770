@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Song2770&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00208b&icon_color=2234AE&text_color=D3D3D3&bg_color=0,008b41,0054c6" alt="Song2770's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Song2770&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00208b&icon_color=2234AE&text_color=D3D3D3&bg_color=0,008b41,004288" alt="Song2770's Github Stats">
 
 </br>
 
