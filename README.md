@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2> Hey there! I'm Song2770.</h2>
+<h2> Hey there! I'm Song2770. 👋 </h2>
 <img align="right" alt="GIF" src="./src/Qf0c.gif" width="150"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
